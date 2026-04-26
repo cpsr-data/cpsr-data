@@ -48,4 +48,5 @@ Proyecto enfocado en analizar el comportamiento de ventas y generar predicciones
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: (www.linkedin.com/in/paloma-serrano-data-analyst)
+- 📧 Email: claudia.paloma.serrano@gmail.com
+- 💼 LinkedIn: [Claudia Serrano](www.linkedin.com/in/paloma-serrano-data-analyst)
