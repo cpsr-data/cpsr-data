@@ -1,16 +1,51 @@
-## Hi there 👋
+## Hola 👋 soy Claudia Serrano
+🎯 Analista de datos apasionada por transformar datos en insights accionables.
 
-<!--
-**cpsr-data/cpsr-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa el análisis de datos enfocado en la toma de decisiones estratégicas.  
+He trabajado con diferentes herramientas para limpiar, analizar y visualizar datos, así como para generar modelos básicos de predicción.
+
+---
+
+## 🛠️ Habilidades y herramientas
+
+- 📊 Análisis de datos: Excel, SQL
+- 🐍 Programación: Python (Pandas, Matplotlib)
+- 📈 Visualización: Looker Studio, Power BI
+- 🤖 Machine Learning: modelos de regresión
+- ☁️ Cloud: conocimientos básicos en AWS
+
+---
+
+## 📈 Enfoque profesional
+
+Busco aplicar el análisis de datos para:
+- Identificar patrones y oportunidades de negocio
+- Optimizar procesos y toma de decisiones
+- Generar valor a partir de la información
+
+---
+
+## 🚀 Proyecto destacado
+
+### 📊 Análisis y Predicción de Ventas
+
+Proyecto enfocado en analizar el comportamiento de ventas y generar predicciones para apoyar la toma de decisiones.
+
+**Incluye:**
+- Limpieza y transformación de datos
+- Análisis exploratorio (EDA)
+- Visualizaciones de tendencias
+- Dashboard interactivo
+- Modelo de predicción de ventas
+
+👉 [Ver proyecto](AQUÍ_VA_TU_LINK)
+
+---
+
+## 📫 Contacto
+
+- 💼 LinkedIn: (www.linkedin.com/in/paloma-serrano-data-analyst)
