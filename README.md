@@ -5,8 +5,7 @@
 
 ## 🧠 Sobre mí
 
-Me interesa el análisis de datos enfocado en la toma de decisiones estratégicas.  
-He trabajado con diferentes herramientas para limpiar, analizar y visualizar datos, así como para generar modelos básicos de predicción.
+Me interesa el análisis de datos enfocado en la toma de decisiones estratégicas. He trabajado con diferentes herramientas para limpiar, analizar y visualizar datos, así como para generar modelos básicos de predicción.
 
 ---
 
