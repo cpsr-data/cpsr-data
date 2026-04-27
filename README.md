@@ -5,7 +5,7 @@
 
 ## 🧠 Sobre mí
 
-Me interesa el análisis de datos enfocado en la toma de decisiones estratégicas. He trabajado con diferentes herramientas para limpiar, analizar y visualizar datos, así como para generar modelos básicos de predicción.
+Analista de Datos con experiencia en el análisis e interpretación de datos para la toma de decisiones. Me especializo en identificar patrones, generar insights y comunicar resultados de forma clara. He trabajado con diferentes herramientas para limpiar, analizar y visualizar datos, así como para generar modelos básicos de predicción.
 
 ---
 
