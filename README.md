@@ -41,7 +41,7 @@ Proyecto enfocado en analizar el comportamiento de ventas y generar predicciones
 - Dashboard interactivo
 - Modelo de predicción de ventas
 
-👉 [Ver proyecto](AQUÍ_VA_TU_LINK)
+👉 [Ver proyecto](https://github.com/cpsr-data/analisis-prediccion-ventas)
 
 ---
 
